@@ -1,0 +1,8 @@
+node,heuristic_remaining_cost,illustrative_label
+S,8,Campus gate
+A,8,Library junction
+B,4,Market road
+C,6,Student hostel
+D,4,Main junction
+E,3,Clinic road
+G,0,District hospital

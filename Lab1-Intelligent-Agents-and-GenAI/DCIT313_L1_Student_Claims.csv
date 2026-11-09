@@ -1,0 +1,13 @@
+﻿claim_id,claim,student_label,supporting_quote
+01,The fair is on 12 November 2026.,SUPPORTED,Date: 12 November 2026.
+02,A ticket costs GH₵20.,CONTRADICTED,Registration: free.
+03,The venue is Fictional Innovation Hall.,SUPPORTED,Venue: Fictional Innovation Hall.
+04,Registration closes on 14 November.,CONTRADICTED,Registration closes: 10 November 2026.
+05,Participants will receive a certificate.,NOT_SPECIFIED,"The fact sheet does not specify certificates, speakers, online access or an official contact number."
+06,Admission is free.,SUPPORTED,Registration: free.
+07,Doors open at 9:00 a.m.,SUPPORTED,Doors open: 9:00 a.m.
+08,Workshops start at 9:00 a.m.,CONTRADICTED,Workshops start: 10:00 a.m.
+09,A guest speaker from industry will attend.,NOT_SPECIFIED,"The fact sheet does not specify certificates, speakers, online access or an official contact number."
+10,The organiser is the DCIT 313 Student Club.,SUPPORTED,Organiser: DCIT 313 Student Club (fictional).
+11,A live online link is available.,NOT_SPECIFIED,"The fact sheet does not specify certificates, speakers, online access or an official contact number."
+12,Workshops begin at 10:00 a.m.,SUPPORTED,Workshops start: 10:00 a.m.

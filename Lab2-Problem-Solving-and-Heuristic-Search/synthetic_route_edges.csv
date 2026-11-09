@@ -1,0 +1,12 @@
+source,destination,cost_units,scenario_note
+S,A,2,Synthetic directed link; NOT actual travel data
+S,B,4,Synthetic directed link; NOT actual travel data
+A,C,2,Synthetic directed link; NOT actual travel data
+A,D,5,Synthetic directed link; NOT actual travel data
+B,D,1,Synthetic directed link; NOT actual travel data
+B,E,4,Synthetic directed link; NOT actual travel data
+C,D,2,Synthetic directed link; NOT actual travel data
+C,G,10,Synthetic directed link; NOT actual travel data
+D,E,1,Synthetic directed link; NOT actual travel data
+D,G,5,Synthetic directed link; NOT actual travel data
+E,G,3,Synthetic directed link; NOT actual travel data
